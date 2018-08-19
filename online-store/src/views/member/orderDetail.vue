@@ -70,7 +70,7 @@
 
                             <tr>
                                 <td align="right" bgcolor="#ffffff">电话： </td>
-                                <td align="left" bgcolor="#ffffff"><input name="address" type="text" class="inputBg" v-model="orderInfo.singer_mobile" size="25"></td>
+                                <td align="left" bgcolor="#ffffff"><input name="address" type="text" class="inputBg" v-model="orderInfo.signer_mobile" size="25"></td>
                             </tr>
                         </tbody>
                     </table>

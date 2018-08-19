@@ -243,7 +243,7 @@
                 post_script:this.post_script,
                 address:this.address,
                 signer_name:this.signer_name,
-                singer_mobile:this.signer_mobile,
+                signer_mobile:this.signer_mobile,
                 order_mount:this.totalPrice
               }
             ).then((response)=> {
