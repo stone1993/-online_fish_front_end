@@ -3,9 +3,6 @@
     <div id="header">
         <div class="hd_bar" id="userinfo-bar">
             <div class="bd">
-                <div class="logo">
-                    <router-link :to="'/app/home/index'" >慕学生鲜商城</router-link>
-                </div>
                 <div class="hd_lbar" style="display: block;" id="ECS_MEMBERZONE">
                      <router-link :to="'/app/home/index'"> 网站首页</router-link>
                 </div>
